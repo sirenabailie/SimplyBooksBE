@@ -18,8 +18,8 @@ Welcome to the **SimplyBooks API** — a RESTful web service for managing author
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sirenabailie/SimplyBooks
-cd SimplyBooks
+git clone https://github.com/sirenabailie/SimplyBooksBE
+cd SimplyBooksBE
 ```
 
 ---
@@ -125,7 +125,7 @@ In a production environment, Firebase token validation middleware would secure r
 ## Author
 
 **Sirena Foster**  
-💻 [GitHub: sirenabailie](https://github.com/sirenabailie)  
+[GitHub: sirenabailie](https://github.com/sirenabailie)  
 
 ---
 
