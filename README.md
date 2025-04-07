@@ -129,6 +129,6 @@ In a production environment, Firebase token validation middleware would secure r
 
 ---
 
-## 📹 API Demo
+## API Demo
 
 > TBA
